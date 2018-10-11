@@ -1,0 +1,19 @@
+
+body{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Playfair Display', serif;
+}
+
+#body{
+    display: block;
+  }
+
+img{
+  max-width: 600px;
+  }
+footer{
+  height: 50px;
+  background-color: #A4D1EA;
+  bottom: 0;
+}
